@@ -1,4 +1,4 @@
-# Museum Project
+# Covid Project
 -Welcome to my Data Visualization project. A project that I created that displays Covid data around the world for the last 4 years
 The data was excracted and manipulated in SQL Server Manaagment Studio using SQL, and the dashboard and data visualizations 
 were created using Tableu. My Covid Dashboard allows you to anaylze the impact that Covid and it's vaccines have had on the health and well being of people .
