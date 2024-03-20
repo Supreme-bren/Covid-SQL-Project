@@ -12,4 +12,5 @@ The dashboard showcases information like "Total Death Count" cause by Covid, "Pe
 - Tableu
 ## How to get started (Data you will need)
 [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths) - OurWorldInData Covid Deaths Data
+
 ![Example](covid-dashboard.jpg?raw=true)
