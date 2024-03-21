@@ -1,4 +1,4 @@
-# Covid Project
+# Covid-19 SQL Project
 -Welcome to my Data Visualization project. A project that I created that analyzes Covid data from around the world for the last 4 years.
 The data was excracted and manipulated in SQL Server Manaagment Studio using SQL, and the dashboard and data visualizations 
 were created using Tableau. My Covid Dashboard allows you to anaylze the impact that Covid has had on peoples' lives and how that impact 
